@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using myDiary.Data;
+using myDiary.Models;
 
 namespace myDiary.Controllers
 {
@@ -20,7 +21,9 @@ namespace myDiary.Controllers
 
         public IActionResult Index()
         {
-            return View();
+
+            List<DiaryEntry> entries = _db.DiaryEntries.ToList();
+            return View(entries);
         }
 
     }
