@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jQKkO+Es3NMCfqiydW1lKwGQRST5OKgWG/4haZA9yrg=",
+  "Hash": "9Igs1OQCUNWl/awJB61C/6sODlGn5WUt1oMBfFvWTTM=",
   "Source": "myDiary",
   "BasePath": "_content/myDiary",
   "Mode": "Default",
@@ -962,12 +962,12 @@
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/myDiary/myDiary/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-s35ty4nyc5.gz",
+      "Identity": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-0ipa2zd544.gz",
       "SourceId": "myDiary",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/myDiary",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=s35ty4nyc5}]?.css.gz",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint=0ipa2zd544}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -976,8 +976,8 @@
       "RelatedAsset": "/Users/barrmohammed/Desktop/myDiary/myDiary/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "lzu6cjurhc",
-      "Integrity": "n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=",
+      "Fingerprint": "zpjxqw3va4",
+      "Integrity": "F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/barrmohammed/Desktop/myDiary/myDiary/wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -1984,8 +1984,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "s35ty4nyc5",
-      "Integrity": "GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=",
+      "Fingerprint": "0ipa2zd544",
+      "Integrity": "mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
@@ -10774,13 +10774,13 @@
       ]
     },
     {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-s35ty4nyc5.gz",
+      "Route": "lib/bootstrap/dist/css/bootstrap.0ipa2zd544.css",
+      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-0ipa2zd544.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000030073379"
+          "Quality": "0.000031816736"
         }
       ],
       "ResponseHeaders": [
@@ -10790,15 +10790,176 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "31429"
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ipa2zd544"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.0ipa2zd544.css",
+      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "232764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ipa2zd544"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.0ipa2zd544.css.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-0ipa2zd544.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31429"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0ipa2zd544"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-0ipa2zd544.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000031816736"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31429"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10818,13 +10979,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "W/\"mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw="
         }
       ]
     },
@@ -10839,7 +11000,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "281046"
+          "Value": "232764"
         },
         {
           "Name": "Content-Type",
@@ -10847,11 +11008,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
+          "Value": "\"mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,13 +11022,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
+          "Value": "sha256-mF1OQKQHPeE7yncPIblaoVbCGkAh9adVDFHIUgiQcyw="
         }
       ]
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-s35ty4nyc5.gz",
+      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-0ipa2zd544.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10876,7 +11037,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "33251"
+          "Value": "31429"
         },
         {
           "Name": "Content-Type",
@@ -10884,11 +11045,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
+          "Value": "\"F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
+          "Value": "Sat, 01 Feb 2025 01:56:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10906,7 +11067,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
+          "Value": "sha256-F6xHLm3qibdKhbvAkEziNN2uoEf/91sNpjcPaYO6se4="
         }
       ]
     },
@@ -12993,167 +13154,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-U4Fb0kGgh99rOTlgKWLxJ9830Vhug5WC4AtpIoTow/A="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-s35ty4nyc5.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000030073379"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css",
-      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "281046"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GKEF18s44B5e0MolXAkpkqLiEbOVlKf6VyYr/G/E6pw="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.s35ty4nyc5.css.gz",
-      "AssetFile": "/Users/barrmohammed/Desktop/myDiary/myDiary/obj/Debug/net9.0/compressed/pz4ofcg6y4-s35ty4nyc5.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33251"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 24 Jan 2025 00:44:52 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "s35ty4nyc5"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-n8W3VdC4I3veW4VnsbrnEGvARFEgXX9cBa7M89gRvWI="
         }
       ]
     },
