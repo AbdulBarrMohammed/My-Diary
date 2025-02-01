@@ -15,6 +15,23 @@
                         <label asp-for="Title" class="form-label">Title</label>
                         <input asp-for="Title" class="form-control" placeholder="Enter a title" />
                     </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Content" class="form-label">Content</label>
+                        <input asp-for="Content" aria-rowcount="5" class="form-control" placeholder="Enter diary entry" />
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Created" class="form-label">Date</label>
+                        <input asp-for="Created" class="form-control" type="date" />
+                    </div>
+
+                    <div class="d-flex justify-content-between">
+                        <button type="submit" class="btn btn-primary">Create</button>
+                        <a asp-controller="DiaryEntries" asp-action="Index" class="btn btn-danger">Cancel</a>
+                    </div>
+
+
                 </form>
 
             </div>
