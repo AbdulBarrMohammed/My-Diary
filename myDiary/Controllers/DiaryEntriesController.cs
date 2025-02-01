@@ -26,5 +26,9 @@ namespace myDiary.Controllers
             return View(entries);
         }
 
+        public IActionResult Create() {
+            return View();
+        }
+
     }
 }
