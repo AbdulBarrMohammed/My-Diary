@@ -7,10 +7,10 @@ using System.ComponentModel.DataAnnotations;
 
         //[Key]
         public int Id { get; set; }
-
-        [Required] //this entry cannot be null, can use ? for required too
+        [Required(ErrorMessage = "Please enter a title!")]
+        [StringLength(100, MinimumLength = 3, ErrorMessage ="Title must be between 3 and 100 characters")]
         public string? Title { get; set; }
-        [Required]
+        [Required] //this entry cannot be null, can use ? for required too
         public string? Content {get; set;}
 
         [Required]
