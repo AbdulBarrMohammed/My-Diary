@@ -32,6 +32,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlhcnlFbnRyaWVzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/barrmohammed/Desktop/myDiary/myDiary/Views/DiaryEntries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlhcnlFbnRyaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/barrmohammed/Desktop/myDiary/myDiary/Views/DiaryEntries/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlhcnlFbnRyaWVzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
